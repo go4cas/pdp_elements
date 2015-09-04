@@ -120,7 +120,7 @@ $(document).ready(function() {
 
         // Add class if in viewport
         if ((elemStart < viewportEnd) && (elemEnd > viewportStart)){
-          
+
           // remove class
           $obj.removeClass(objOptions.classToRemove);
 
@@ -190,7 +190,7 @@ $(window).scroll(function(event){
 
 setInterval(function() {
   if (didScroll) {
-    hasScrolled();
+    //hasScrolled();
     didScroll = false;
   }
 }, 250);
