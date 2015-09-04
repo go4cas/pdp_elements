@@ -1,7 +1,7 @@
 # Site settings
 title: pdp elements
 email: go4cas@gmail.com
-description: a set of web-components used to illustrate and build an e-commerce product detail page
+description: a series of articles for building the uber Product Detail Page
 footer_text: 'eCommerce from the eyes of <a href="https://github.com/go4cas">Cas</a>.&nbsp;&nbsp;Template awesomeness by <a href="http://github.com/raichur/material-jekyll">Joshua Raichur</a>.&nbsp;&nbsp;Hosted at <a href="https://js.org"><img src="http://logo.js.org/bright_tiny.png" width="45" alt="JS.ORG Logo"/></a>.'
 baseurl: ""
 
