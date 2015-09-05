@@ -2,13 +2,13 @@
 title: pdp elements
 email: go4cas@gmail.com
 description: a series of articles for building the uber product detail page
-footer_text: 'eCommerce from the eyes of <a href="https://github.com/go4cas">Cas</a>.&nbsp;&nbsp;Template awesomeness by <a href="http://github.com/raichur/material-jekyll">Joshua Raichur</a>.&nbsp;&nbsp;Hosted at <a href="https://js.org"><img src="http://logo.js.org/bright_tiny.png" width="45" alt="JS.ORG Logo"/></a>.'
+footer_text: 'Template awesomeness by <a href="http://github.com/raichur/material-jekyll">Joshua Raichur</a><br>Hosted at <a href="https://js.org"><img src="http://logo.js.org/bright_tiny.png" width="40" alt="JS.ORG Logo"/></a>'
 baseurl: ""
 
 # Social usernames
 twitter_username: go4cas
 github_username:  go4cas
-email: g04cas@gmail.com
+email: go4cas@gmail.com
 
 # Build settings
 markdown: kramdown
